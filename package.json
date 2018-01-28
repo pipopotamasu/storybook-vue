@@ -12,10 +12,6 @@
     "buid-storybook": "build-storybook -s public"
   },
   "dependencies": {
-    "@storybook/addon-centered": "^3.3.11",
-    "@storybook/addon-knobs": "^3.3.11",
-    "@storybook/addon-links": "^3.3.11",
-    "@storybook/vue": "^3.3.11",
     "vue": "^2.5.11"
   },
   "browserslist": [
@@ -34,6 +30,10 @@
     "vue-loader": "^13.0.5",
     "vue-template-compiler": "^2.4.4",
     "webpack": "^3.6.0",
-    "webpack-dev-server": "^2.9.1"
+    "webpack-dev-server": "^2.9.1",
+    "@storybook/addon-centered": "^3.3.11",
+    "@storybook/addon-knobs": "^3.3.11",
+    "@storybook/addon-links": "^3.3.11",
+    "@storybook/vue": "^3.3.11"
   }
 }
